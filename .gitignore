@@ -1,4 +1,5 @@
 /build/
-/libs/
+#/libs/
 /obj/
-/sqlite-amalgamation-*.zip
+#/sqlite-amalgamation-*.zip
+.DS_Store
